@@ -1,7 +1,6 @@
 # SnakeGame
 A snake game Using pygame.
 
-
 1. Pygame
    
 Purpose: Pygame is a cross-platform set of Python modules designed for writing video games. It includes computer graphics and sound libraries, which makes it a popular choice for developing simple games.
@@ -28,6 +27,10 @@ pygame.quit(): Uninitializes all Pygame modules and exits the program.
 Purpose: The random module is used to generate random numbers. In this game, it’s used to randomly position the apple on the screen.
 Functions Used:
 random.randint(): Returns a random integer between the specified range.
+
+(optional)
+font used in the game "font.ttf" file 
+
 
 Overview of the Code:
 
